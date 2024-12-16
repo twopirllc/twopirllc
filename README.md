@@ -4,14 +4,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=twopirllc&repo=pandas-ta&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/twopirllc/pandas-ta)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=twopirllc&repo=AlphaVantageAPI&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/twopirllc/AlphaVantageAPI)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twopirllc&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/twopirllc/github-readme-stats)
-
-
 ### Contact
-- 📫 How to reach me: appliedmathkj **at** gmail **dot** com
-  - 🛑 Please do **NOT** email personally for help regarding Issues with a repository. Instead please fill out an Issue in the respective repository.
+- 🛑 Do **NOT** email personally for help regarding Issues with a repository. Instead please fill out an Issue in the respective repository.
 
 
 ### **Support**
